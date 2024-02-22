@@ -26,8 +26,8 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
-     logo: assets/ak_logo.png
-     favicon: assets/favicon.ico
+     logo: assets/logo.webp
+     favicon: assets/smiling_face.ico
 
 plugins:
   - social
