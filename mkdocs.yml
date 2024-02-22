@@ -30,8 +30,8 @@ theme:
       favicon: assets/smiling_face.ico
 
 plugins:
-  - social
   - tags
+  - search
 
 extra:
   social:
