@@ -1,5 +1,12 @@
 site_name: Dokumentacja
 site_url: https://github.com/kubansa-allegro/doc/
+
+nav:
+  - Home: index.md
+  - Help:
+      - Help Mkdocs: https://squidfunk.github.io/mkdocs-material/reference/
+
+
 theme:
   name: material
   logo: assets/logo.png
