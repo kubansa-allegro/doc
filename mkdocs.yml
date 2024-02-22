@@ -26,18 +26,24 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
+     logo: assets/ak_logo.png
+     favicon: assets/favicon.ico
 
 plugins:
   - social
+  - tags
 
 extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/kubansa-allegro
+    - icon: fontawesome/brands/slack
+      link: https://allegro.slack.com/archives/D03S5RWAPHP
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/adam-kubanski-2bb020a8/
 
 markdown_extensions:
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
