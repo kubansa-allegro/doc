@@ -2,6 +2,8 @@ site_name: Dokumentacja
 site_url: https://github.com/kubansa-allegro/doc/
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/smiling_face.ico
   features:
     - navigation.tabs
     - navigation.sections
