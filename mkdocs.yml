@@ -26,7 +26,7 @@ theme:
         name: Switch to light mode    
       primary: teal
       accent: lime
-     logo: assets/logo.webp
+     logo: assets/logo.png
      favicon: assets/smiling_face.ico
 
 plugins:
