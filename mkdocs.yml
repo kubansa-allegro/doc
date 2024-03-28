@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - Zadania: zadania.md
   - Instrukcja analityka: instrukcja_analityka.md
+  - Wiki: wiki.md
   - Help:
     - Help Mkdocs: https://squidfunk.github.io/mkdocs-material/reference/
 

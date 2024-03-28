@@ -1,15 +1,12 @@
-# Zatory Platnicze
+## [2024-03-01]
+### [NYKS-739](https://jira.allegrogroup.com/browse/NYKS-739) Zatory Platnicze
 
-### Zadania
 [NYKS-45](https://jira.allegrogroup.com/browse/NYKS-45)
 [NYKS-467](https://jira.allegrogroup.com/browse/NYKS-467)
 [NYKS-739](https://jira.allegrogroup.com/browse/NYKS-739)
 
 
 
-### Załozenia raportu
-
-#### [2024-03-10]
 
 **Sprawdzenie danych:**
 
@@ -238,5 +235,7 @@
 </br>
 
 
+### [NYKS-820](https://jira.allegrogroup.com/browse/NYKS-820) KKE
 
 
+# [2023-04-01]
