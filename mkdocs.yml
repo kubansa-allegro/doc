@@ -73,6 +73,7 @@ markdown_extensions:
 
   - pymdownx.tasklist:
       custom_checkbox: true
+  - toc_levels: 1..2
 
 kramdown:
   - toc_levels: 1..2
