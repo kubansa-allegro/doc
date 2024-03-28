@@ -74,5 +74,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+kramdown:
+  - toc_levels: 1..2
+
+
 copyright: |
   &copy; 2024 <a href="https://github.com/kubansa-allegro"  target="_blank" rel="noopener">Adam Kubanski</a>

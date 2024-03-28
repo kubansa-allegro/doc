@@ -1,9 +1,11 @@
 # Zatory Platnicze
 
 ### Zadania
-[NYKS - 45](https://jira.allegrogroup.com/browse/NYKS-45)
-[NYKS - 467](https://jira.allegrogroup.com/browse/NYKS-467)
-[NYKS - 739](https://jira.allegrogroup.com/browse/NYKS-739)
+[NYKS-45](https://jira.allegrogroup.com/browse/NYKS-45)
+[NYKS-467](https://jira.allegrogroup.com/browse/NYKS-467)
+[NYKS-739](https://jira.allegrogroup.com/browse/NYKS-739)
+
+
 
 ### Załozenia raportu
 
