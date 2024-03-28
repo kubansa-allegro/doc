@@ -15,7 +15,7 @@ theme:
   favicon: assets/smiling_face.ico
   features:
     - navigation.tabs
-    - navigation.sections
+   # - navigation.sections
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -23,6 +23,10 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - navigation.expand
   language: pl
   palette:
     - scheme: default
@@ -67,6 +71,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - def_list
+  - tables
+
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
