@@ -75,7 +75,8 @@ markdown_extensions:
       custom_checkbox: true
 
 kramdown:
-  - toc_levels: 1..2
+  toc_levels: 1..2
+
 
 
 copyright: |
