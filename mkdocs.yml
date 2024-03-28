@@ -81,12 +81,6 @@ markdown_extensions:
       custom_checkbox: true
 
 
-markdown: kramdown
-
-kramdown:
-  toc_levels: 1..2
-
-
 
 copyright: |
   &copy; 2024 <a href="https://github.com/kubansa-allegro"  target="_blank" rel="noopener">Adam Kubanski</a>

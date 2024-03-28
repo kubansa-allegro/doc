@@ -11,9 +11,9 @@
 
 #### [2024-03-10]
 
-#### Sprawdzenie danych:
+**Sprawdzenie danych:**
 
-####  Sprawdzamy sekcje "Wpłaty otrzymane w 2023 roku"
+**Sprawdzamy sekcje "Wpłaty otrzymane w 2023 roku"**
  Sprawdzamy sekcje "Wpłaty otrzymane w 2023 roku" (wiersz 9 w excelu) dla np. allegro.cz z [raportem](https://tableau.allegrogroup.com/t/Finance/views/Billingbycountry/Creditorsbycountry) zafiltorwanym zgodnie z obrazkiem:
 
   ![image](../assets/img/nyks739.png){ width="800"}
