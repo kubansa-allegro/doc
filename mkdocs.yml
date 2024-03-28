@@ -25,7 +25,6 @@ theme:
     - content.code.copy
     - navigation.path
     - toc.follow
-    - toc.integrate
     - navigation.expand
   language: pl
   palette:
